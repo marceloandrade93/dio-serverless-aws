@@ -1,4 +1,4 @@
-service: dio-live-project
+service: dio-serverless-aws
 
 frameworkVersion: '2'
 
